@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://badie-othmen.github.io/simple-website/sitemap.xml
